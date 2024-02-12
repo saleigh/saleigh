@@ -2,8 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Cybersecurity Monitoring and Detection </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Designed a virtualise enterprise home lab network, to test vulnerabilities and practice threat detection.
+  - Installed and configured Pfsense firewall to allow and block traffic on a network.
+  - Installed and configured Security Onion for Intrusion Detection Security, Monitoring and Log Management.
+  - Installed and configured Ubuntu Desktop to allow Security Onion to be accessible via Web interface.
+  - Installed and configured Windows 2019 Server created Domain Controller and Active Directory Domain.
+  - Configured and created users on the active directory domain.
+  - Installed an attack machine Kali Linux to attack the network and to access Pfsense via Web Interface.
+  - Installed and Configured Windows 10 machines and joined them to the Active Directory Domain.
+  - Installed and configured Splunk for monitoring logs on Ubuntu Server and loaded an instance of Ubuntu Desktop for
+    managing Splunk via Web Interface.
+  - Simulated offensive and defensive tactics for adversary emulation and incident response.
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
